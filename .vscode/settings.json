@@ -1,0 +1,6 @@
+{
+    "pasteImage.path": "${currentFileDir}/images",
+    "pasteImage.basePath": "${currentFileDir}/..",
+    "pasteImage.insertPattern": "${imageSyntaxPrefix}/${imageFilePath}${imageSyntaxSuffix}",
+    "pasteImage.defaultName": "[image]YYMMDD_HHmmss"
+}
